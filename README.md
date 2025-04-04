@@ -17,7 +17,7 @@ This repository contains notes, walkthroughs, and PDFs from my OSCP journey, inc
 
 | Machine Name | OS     | Description                        | Link                                |
 |--------------|--------|------------------------------------|-------------------------------------|
-| Astronaut      | Linux  | Privilege escalation with cron job | [Astronaut.md](Astronaut.md)          |
+| Astronaut      | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Astronaut.md)          |
 | Crane        | Linux  | Sudo misconfig, local enum         | [Crane.pdf](Crane.pdf)              |
 | Press        | Windows| WinRM + RCE                        | [Press.pdf](Press.pdf)              |
 | Explorer     | Linux  | Initial foothold & SSH access      | [Extplorer.pdf](Extplorer.pdf)      |
