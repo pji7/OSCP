@@ -6,9 +6,9 @@ This repository contains notes, walkthroughs, and PDFs from my OSCP journey, inc
 
 ## 📘 Proving Grounds Index
 
-| Machine Name | OS     | Description                        | Link                                |
+| Machine Name | OS     | Description                        | Walkthroughs                        |
 |--------------|--------|------------------------------------|-------------------------------------|
-| Astronaut    | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Astronaut.md)          |
+| Astronaut    | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Astronaut.md) |
 
 
 ---
