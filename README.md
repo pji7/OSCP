@@ -8,7 +8,9 @@ This repository contains notes, walkthroughs, and PDFs from my OSCP journey, inc
 
 | Machine Name | OS     | Description                        | Link                                |
 |--------------|--------|------------------------------------|-------------------------------------|
-| Astronaut    | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Astronaut.md) |
+| Astronaut    | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Linux%20-%20Astronaut%20176553bebf0f802bb423dc7c3b6c9915.md) |
+| Algernon     | Win  |  | [Algernon.md](/Algernon/Win%20-%20Algernon%2018c553bebf0f8089a5d1dcd9cf192fa1.md) | 
+| ...[TODO]| | | |
 
 
 ---
