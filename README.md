@@ -1,6 +1,26 @@
-# OSCP Notes
+# OSCP Penetration Testing Notes
 
-This repository contains notes, walkthroughs, and PDFs from my OSCP journey, including Proving Grounds and Challenge Lab boxes.
+This repository contains notes, walkthroughs, and PDFs from my OSCP journey, including Proving Grounds and Challenge Lab practices.
+
+---
+
+## 📘 Proving Grounds Index
+
+| Machine Name | OS     | Description                        | Link                                |
+|--------------|--------|------------------------------------|-------------------------------------|
+| Astronaut    | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Astronaut.md)          |
+
+
+---
+
+## 📘 Challenge Lab Index
+
+| Machine Name | OS     | Description                        | Link                                |
+|--------------|--------|------------------------------------|-------------------------------------|
+| Astronaut      | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Astronaut.md)          |
+| Crane        | Linux  | Sudo misconfig, local enum         | [Crane.pdf](Crane.pdf)              |
+| Press        | Windows| WinRM + RCE                        | [Press.pdf](Press.pdf)              |
+| Explorer     | Linux  | Initial foothold & SSH access      | [Extplorer.pdf](Extplorer.pdf)      |
 
 ---
 
@@ -10,17 +30,6 @@ This repository contains notes, walkthroughs, and PDFs from my OSCP journey, inc
 - `/Explorer...`: Folder for specific PG machines
 - `Pelican.pdf`: PDF walkthrough of the Pelican machine
 - `Crane.pdf`: PDF walkthrough of the Crane machine
-
----
-
-## 📘 Walkthrough Index
-
-| Machine Name | OS     | Description                        | Link                                |
-|--------------|--------|------------------------------------|-------------------------------------|
-| Astronaut      | Linux  | Privilege escalation with cron job | [Astronaut.md](/Astronaut/Astronaut.md)          |
-| Crane        | Linux  | Sudo misconfig, local enum         | [Crane.pdf](Crane.pdf)              |
-| Press        | Windows| WinRM + RCE                        | [Press.pdf](Press.pdf)              |
-| Explorer     | Linux  | Initial foothold & SSH access      | [Extplorer.pdf](Extplorer.pdf)      |
 
 ---
 
