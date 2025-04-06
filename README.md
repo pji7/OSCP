@@ -4,6 +4,10 @@ This repository contains notes, walkthroughs, and PDFs from my OSCP journey, inc
 
 ---
 
+Playbook - https://pine-surgeon-692.notion.site/Playbook-160553bebf0f80d78194d3606dd03b00
+
+---
+
 ## 📘 Proving Grounds Index
 
 | Machine Name | OS     | Description                        | Link                                |
